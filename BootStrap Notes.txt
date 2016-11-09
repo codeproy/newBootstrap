@@ -1,0 +1,22 @@
+Bootstrap Notes - 
+
+1 Responsive Web Design - Fits to any device when page opened with browser
+
+2. In the template 
+    viewport means settings 
+    content tells to fit to device width and height
+    inital scale tells No Zoom ..open with 100%
+    the line with CSS provides the default styling, coloring etc.
+    the one is for jquery and other is for javascript
+
+3. Fixed Width class="container"
+   device Width class="container-fluid"
+
+4. Grid System - breaking the page into columns and rows.
+                 In bootstrap there can be a maximum of 12 columns.
+
+ there are 4 grid classes. This represents for which device you are trying to design for.
+   xs (Extra Small) - Phones
+   sm (Small) - Tablets
+   md (medium) - desktops / laptops
+   lg ( Large) - huge desktops
